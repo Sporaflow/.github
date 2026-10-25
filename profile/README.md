@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sporaflow/.github/main/profile/sporaflow-github-social-preview-centre.png" alt="Sporaflow: a terminal prompt chevron next to the Sporaflow wordmark, on a dark background" width="640">
+  <img src="https://raw.githubusercontent.com/Sporaflow/.github/main/profile/sporaflow-linkedin-cover-centre.png" alt="Sporaflow: a terminal prompt chevron next to the Sporaflow wordmark, on a dark background" width="100%">
 </p>
 
 Sporaflow is a vendor-agnostic agentic orchestrator, built first for developers.
